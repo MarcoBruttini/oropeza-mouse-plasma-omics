@@ -1,0 +1,73 @@
+﻿Sample;Mouse;Day;Group;Treatment;Hemolysis;RNA Concentration
+1;41895;0;β-cell ablation;Control;No;0,463
+2;41998;0;β-cell ablation;Control;Moderate;0,475
+3;41898;0;β-cell ablation;DT 005ng;Little;0,474
+4;42423;0;β-cell ablation;DT 005ng;No;0,339
+5;41896;0;β-cell ablation;DT 015ng;Moderate;0,421
+6;42421;0;β-cell ablation;DT 015ng;No;0,368
+7;41897;0;β-cell ablation;DT 120ng;Little;0,552
+8;42208;0;β-cell ablation;DT 120ng;No;0,634
+9;42204;0;β-cell ablation;Control;No;0,451
+10;42314;0;β-cell ablation;Control;No;
+11;42002;0;β-cell ablation;DT 005ng;Little;0,351
+12;42439;0;β-cell ablation;DT 005ng;Little;0,293
+13;41999;0;β-cell ablation;DT 015ng;No;0,293
+14;42588;0;β-cell ablation;DT 015ng;Little;0,907
+15;42004;0;β-cell ablation;DT 120ng;No;0,389
+16;42313;0;β-cell ablation;DT 120ng;No;0,355
+17;42657;0;Insulin resistance;Control;No;0,549
+18;43027;0;Insulin resistance;S961;No;0,386
+19;42655;0;Insulin resistance;Control;No;0,993
+20;42941;0;Insulin resistance;Control;No;0,542
+21;43026;0;Insulin resistance;Control;Little;0,443
+22;42656;0;Insulin resistance;S961;No;0,603
+23;42654;0;Insulin resistance;S961;Little;0,581
+24;42938;0;Insulin resistance;S961;;0,367
+25;42657;4;Insulin resistance;Control;No;0,595
+26;42655;4;Insulin resistance;Control;No;0,648
+27;43026;4;Insulin resistance;Control;No;0,573
+28;43027;4;Insulin resistance;S961;No;0,553
+29;42938;4;Insulin resistance;S961;Moderate;0,578
+30;41895;4;β-cell ablation;Control;No;0,531
+31;42204;4;β-cell ablation;Control;No;0,465
+32;41898;4;β-cell ablation;DT 005ng;No;0,582
+33;42421;4;β-cell ablation;DT 015ng;No;0,474
+34;42208;4;β-cell ablation;DT 120ng;No;0,59
+35;42004;4;β-cell ablation;DT 120ng;No;0,423
+36;42941;4;Insulin resistance;Control;No;1,49
+37;42656;4;Insulin resistance;S961;No;1,09
+38;42654;4;Insulin resistance;S961;No;1,6
+39;41998;4;β-cell ablation;Control;No;0,913
+40;42423;4;β-cell ablation;DT 005ng;No;1,49
+41;41896;4;β-cell ablation;DT 015ng;No;1,03
+42;41897;4;β-cell ablation;DT 120ng;No;1,11
+43;42314;4;β-cell ablation;Control;Moderate;1,93
+44;42002;4;β-cell ablation;DT 005ng;No;1,35
+45;42439;4;β-cell ablation;DT 005ng;No;1,15
+46;41999;4;β-cell ablation;DT 015ng;No;1,34
+47;42588;4;β-cell ablation;DT 015ng;No;1,57
+48;42313;4;β-cell ablation;DT 120ng;No;0,88
+49;41895;10;β-cell ablation;Control;No;1,38
+50;41898;10;β-cell ablation;DT 005ng;No;0,953
+51;41896;10;β-cell ablation;DT 015ng;No;0,847
+52;41897;10;β-cell ablation;DT 120ng;No;1,53
+53;42204;10;β-cell ablation;Control;No;1,53
+54;41998;10;β-cell ablation;Control;No;1,14
+55;42314;10;β-cell ablation;Control;No;1,2
+56;42423;10;β-cell ablation;DT 005ng;Little;1,29
+57;42002;10;β-cell ablation;DT 005ng;No;1,26
+58;42439;10;β-cell ablation;DT 005ng;No;1,38
+59;42421;10;β-cell ablation;DT 015ng;No;1,54
+60;41999;10;β-cell ablation;DT 015ng;No;0,619
+61;42588;10;β-cell ablation;DT 015ng;No;1,36
+62;42208;10;β-cell ablation;DT 120ng;No;1,71
+63;42004;10;β-cell ablation;DT 120ng;Little;2
+64;42313;10;β-cell ablation;DT 120ng;No;1,16
+65;42657;10;Insulin resistance;Control;No;1,57
+66;42655;10;Insulin resistance;Control;No;1,18
+67;42941;10;Insulin resistance;Control;No;1,91
+68;43026;10;Insulin resistance;Control;No;1,93
+69;43027;10;Insulin resistance;S961;No;1,39
+70;42656;10;Insulin resistance;S961;No;1,52
+71;42654;10;Insulin resistance;S961;Little;1,82
+72;42938;10;Insulin resistance;S961;No;2,34

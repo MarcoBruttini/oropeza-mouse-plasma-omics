@@ -1,0 +1,10 @@
+﻿Sample;Mouse;Day;Group;Treatment;Hemolysis;RNA Concentration;RNA Volume
+Ctl1;33815;10;β-cell ablation;Control;No;0,83;6,05
+Ctl2;33846;10;β-cell ablation;Control;Moderate;1,89;2,65
+Ctl4;33833;10;β-cell ablation;Control;Little;1,18;4,24
+DT5;33831;10;β-cell ablation;DT 120ng;Moderate;1,7;2,94
+DT6;33847;10;β-cell ablation;DT 120ng;Moderate;1,45;3,45
+DT7;33817;10;β-cell ablation;DT 120ng;No;0,95;5,26
+S14;33818;10;Insulin resistance;S961;Moderate;1,43;3,5
+S16;33839;10;Insulin resistance;S961;Moderate;1,43;3,5
+S17;33840;10;Insulin resistance;S961;Moderate;1,29;3,88
